@@ -1,6 +1,5 @@
-# Local File Integrity Checker (Buggy Version)
-
-This is a simplistic file integrity checker for testing AI models. It intentionally includes flaws to verify how well your AI or automation scripts can catch errors.
+# Local File Integrity Checker
+This is a simplistic file integrity checker for your local files.
 
 ## Run Instructions
 
